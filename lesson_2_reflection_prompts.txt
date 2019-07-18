@@ -25,3 +25,5 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 Pros is we don't loose the data
 cons is we need to do one more job to understand which choice is true.
+
+33333333333333333333333333333333333333
